@@ -1,0 +1,95 @@
+AntiFeatures:NonFreeNet,Tracking
+Categories:Internet
+License:MIT
+Author Name:Marcus Bauer
+Author Email:mabako@gmail.com
+Web Site:
+Source Code:https://github.com/mabako/SteamGifts-app
+Issue Tracker:https://github.com/mabako/SteamGifts-app/issues
+
+Summary:SteamGifts client
+Description:
+Browse giveaways and discussions on SteamGifts.
+
+* Browse, search, enter and comment on giveaways
+* Filter giveaways by type (all, group, wishlist), levels, points and entries
+* View and search through Discussions
+* Sync Account
+* SGTools.info integration
+.
+
+Repo Type:git
+Repo:https://github.com/mabako/SteamGifts-app
+
+Build:1.0,45
+    commit=v1.0-beta.1
+    subdir=app
+    gradle=out
+
+Build:1.0,46
+    commit=v1.0-beta.2
+    subdir=app
+    gradle=out
+
+Build:1.0,47
+    commit=v1.0-beta.3
+    subdir=app
+    gradle=out
+
+Build:1.0,48
+    commit=v1.0
+    subdir=app
+    gradle=out
+
+Build:1.0.1,49
+    commit=v1.0.1
+    subdir=app
+    gradle=out
+
+Build:1.1-beta.4,1001004
+    commit=v1.1-beta.4
+    subdir=app
+    gradle=strawberry
+
+Build:1.1-beta.5,1001005
+    commit=v1.1-beta.5
+    subdir=app
+    gradle=strawberry
+
+Build:1.1-beta.6,1001006
+    commit=v1.1-beta.6
+    subdir=app
+    gradle=strawberry
+
+Build:1.1-beta.7,1001007
+    commit=v1.1-beta.7
+    subdir=app
+    gradle=strawberry
+
+Build:1.1-beta.8,1001008
+    commit=v1.1-beta.8
+    subdir=app
+    gradle=strawberry
+
+Build:1.1-beta.9,1001009
+    commit=v1.1-beta.9
+    subdir=app
+    gradle=strawberry
+
+Build:1.1-beta.10,1001010
+    commit=v1.1-beta.10
+    subdir=app
+    gradle=strawberry
+Build:1.1,1001500
+    commit=v1.1
+    subdir=app
+    gradle=vanilla
+Build:1.2-beta.1,1002001
+    commit=v1.2-beta.1
+    subdir=app
+    gradle=strawberry
+
+Auto Update Mode:Version v%v
+Update Check Mode:None
+Current Version:1.2
+Current Version Code:1002001

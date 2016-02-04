@@ -1,0 +1,8 @@
+build/
+logs/
+tmp/
+
+config.py
+.fdroid.*.txt
+*.jks
+.DS_Store
