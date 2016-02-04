@@ -1,4 +1,4 @@
-AntiFeatures:NonFreeNet,Tracking
+AntiFeatures:NonFreeNet
 Categories:Internet
 License:MIT
 Author Name:Marcus Bauer
