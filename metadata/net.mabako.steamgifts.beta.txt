@@ -36,7 +36,12 @@ Build:1.2-beta.4,1002004
     subdir=app
     gradle=strawberry
 
+Build:1.2-beta.5,1002005
+    commit=v1.2-beta.5
+    subdir=app
+    gradle=strawberry
+
 Auto Update Mode:Version v%v
 Update Check Mode:None
-Current Version:1.2-beta.4
-Current Version Code:1002004
+Current Version:1.2-beta.5
+Current Version Code:1002005
