@@ -5,5 +5,5 @@ docker run \
   -v ~/fdroid/steamgifts-android.jks:/fdroid/steamgifts-android.jks \
   -v ~/fdroid/repo:/fdroid/repo \
   --entrypoint sh \
-  fdroid \
+  mabako/fdroidserver \
   -c "fdroid build -v net.mabako.steamgifts.beta && fdroid publish && fdroid update"
