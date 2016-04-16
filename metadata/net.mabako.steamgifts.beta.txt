@@ -133,7 +133,12 @@ Build:1.3-beta.9,1003009
     subdir=app
     gradle=strawberry
 
+Build:1.3-beta.10,1003010
+    commit=v1.3-beta.10
+    subdir=app
+    gradle=strawberry
+
 Auto Update Mode:Version v%v
 Update Check Mode:None
-Current Version:1.3-beta.9
-Current Version Code:1003009
+Current Version:1.3-beta.10
+Current Version Code:1003010
