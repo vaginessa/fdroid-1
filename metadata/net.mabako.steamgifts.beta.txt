@@ -163,7 +163,17 @@ Build:1.4-beta.4,1004004
     subdir=app
     gradle=strawberry
 
+Build:1.4-beta.5,1004005
+    commit=v1.4-beta.5
+    subdir=app
+    gradle=strawberry
+
+Build:1.4-beta.6,1004006
+    commit=v1.4-beta.6
+    subdir=app
+    gradle=strawberry
+
 Auto Update Mode:Version v%v
 Update Check Mode:None
-Current Version:1.4-beta.4
-Current Version Code:1004004
+Current Version:1.4-beta.6
+Current Version Code:1004006
