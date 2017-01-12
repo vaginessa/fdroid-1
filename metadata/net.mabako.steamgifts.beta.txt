@@ -193,7 +193,12 @@ Build:1.5-beta.4,1005004
     subdir=app
     gradle=strawberry
 
+Build:1.5-beta.5,1005005
+    commit=v1.5-beta.5
+    subdir=app
+    gradle=strawberry
+
 Auto Update Mode:Version v%v
 Update Check Mode:None
-Current Version:1.5-beta.3
-Current Version Code:1005003
+Current Version:1.5-beta.5
+Current Version Code:1005005
