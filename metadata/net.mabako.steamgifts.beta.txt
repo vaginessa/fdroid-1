@@ -223,7 +223,12 @@ Build:1.5.4,1005504
     subdir=app
     gradle=strawberry
 
+Build:1.5.5,1005505
+    commit=v1.5.5
+    subdir=app
+    gradle=strawberry
+
 Auto Update Mode:Version v%v
 Update Check Mode:None
-Current Version:1.5.4
-Current Version Code:1005504
+Current Version:1.5.5
+Current Version Code:1005505
