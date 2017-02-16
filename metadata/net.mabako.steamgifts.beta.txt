@@ -233,7 +233,12 @@ Build:1.5.6,1005506
     subdir=app
     gradle=strawberry
 
+Build:1.5.7,1005507
+    commit=v1.5.7
+    subdir=app
+    gradle=strawberry
+
 Auto Update Mode:Version v%v
 Update Check Mode:None
-Current Version:1.5.6
-Current Version Code:1005506
+Current Version:1.5.7
+Current Version Code:1005507
